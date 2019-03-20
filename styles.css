@@ -1,0 +1,85 @@
+body{
+    background:AntiqueWhite;
+    text-align:center;
+}
+h1{
+    border:solid;
+    border-width: 10px;
+    margin:10px;
+    padding:10px;
+    background:BurlyWood;
+}
+
+
+h3{
+     border:solid;
+    border-width: 10px;
+    margin:10px;
+    padding:10px;
+    background:CadetBlue;
+}
+
+img{
+    height:400px;
+   
+}
+ol{
+    color:CadetBlue;
+}
+h4{
+    border:ridge;
+    border-width:10px;
+    margin:10px;
+    padding:10px;
+    background:CadetBlue;
+    border-color:pink;
+    color:white;
+    font-size:20px;
+}
+h5{
+     border:ridge;
+    border-width:10px;
+    margin:10px;
+    padding:10px;
+    background:CadetBlue;
+    border-color:salmon;
+    color:white;
+    font-size:30px;
+}
+h6{
+     border:ridge;
+    border-width:10px;
+    margin:10px;
+    padding:10px;
+    background:black;
+    border-color:AquaMarine;
+    color:white;
+    Font-size:40px;
+}
+p{
+    border:ridge;
+    border-width:10px;
+    margin:10px;
+    padding:10px;
+    background:salmon;
+    border-color:AquaMarine;
+    color:white;
+    Font-size:40px;
+}
+.images{
+    display:flex;
+    justify-content:center;
+    justify-content:space-between;
+    height:20px;
+}
+ 
+ .title:hover{ 
+  background-color: CadetBlue;
+}
+.award:hover{
+    background-color:white;
+}
+
+
+    
+
